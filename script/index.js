@@ -60,7 +60,7 @@ function main() {
     
 
 let detailsEl = document.getElementById('details');
-
+ 
 
 }
 function handleClick(index) {
